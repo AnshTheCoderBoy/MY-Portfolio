@@ -128,7 +128,7 @@ const portfolioData: PortfolioData = {
       {
         title: "Assassin's Creed Series",
         description: "I like the Assassin's Creed series because it makes me feel like I'm actually living in ancient history. Each game lets me step into the life of an assassin during iconic time periods like ancient Egypt, Renaissance Italy, or the Viking era. I love the mix of real historical events with a powerful fictional story. The gameplay—full of stealth, parkour, and intense missions—combined with detailed open worlds, makes me feel completely immersed in the past like I'm part of that world.",
-        image: "public/game/Assassin's-Creed.jpg"
+        image: "/game/Assassin's-Creed.jpg"
       },
       {
         title: "GTA IV",
