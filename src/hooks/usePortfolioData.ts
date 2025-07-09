@@ -106,14 +106,21 @@ const portfolioData: PortfolioData = {
       description: "GameOz, the ultimate destination for gaming enthusiasts. Immerse yourself in a world of endless possibilities, where you can discover, download, and experience your favorite games like never before.",
       tech: ["Tailwind", "RAWG AP", " React "],
       img: "/projects/gamesite.png",
-      link: "https://github.com/AnshTheCoderBoy/GameOz"
+      link: "https://gameoz.netlify.app/"
     },
     {
       title: "Personal Portfolio Website",
       description: "Developed a static website using HTML, CSS, and JavaScript to showcase skills and contact information.",
-      tech: ["HTML", "CSS", "JavaScript"],
+      tech: ["React", "Tailwind", "TypeScript"],
       img: "/projects/portfolio.png",
-      link: "https://github.com/AnshTheCoderBoy"
+      link: "https://anshulhub.netlify.app/"
+    },
+    {
+      title: "TazaTunes",
+      description: " Play songs from your own device, tune in to live radio, and get the latest news from India and around the world — all in one place, no login needed.",
+      tech: ["React", "Tailwind", "TypeScript"],
+      img: "/projects/tazatunes.png",
+      link: "https://tazatunes.netlify.app/"
     }
   ],
   hobbies: {
