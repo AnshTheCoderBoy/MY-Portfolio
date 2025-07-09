@@ -154,8 +154,15 @@ const portfolioData: PortfolioData = {
         description: "One of my favorite songs is Intentions by Justin Bieber. I love it because every time I hear it, it takes me back to those peaceful post-lockdown mornings when life slowly started to feel normal again. I used to listen to it during my early walks, with cool wind brushing my face and a quiet hope in the air. After the chaos of the pandemic, this song became a symbol of healing and fresh beginnings. It reminds me of the simple joy of being outside, feeling free, and believing that better days were finally on their way.",
         image: "/music/JustinBieberIntentions.jpg",
         audio: "/music/JustinBieberIntentions.mp3"
+      },
+      {
+        title: "Paro",
+        description: "It was 6 PM. Main gym mein tha, workout chal raha tha—same energy, same noise.\n\nPhir achanak— Aditya Rikhari ka 'Paro (UNPLG'd)' baj gaya.\n\nBas usi pal… sab ruk gaye. Na koi rep, na koi set.\n\nLag raha tha jaise sabki dukh ki nas pakad li ho. Room mein ek ajeeb sa silence tha.\n\nAur jab woh line aayi— 'Jo kehti thi mat piyo na, meri jaan zeher hai yeh...' 'Use dekhta hoon, koi gair chhuye… ab aur zeher kya piyu?'\n\nBas, sabka dil wahi pe atak gaya. Kisi ne kuch kaha nahi, par sab mehsoos kar rahe the.\n\nPhir dheere-dheere sab apne workout mein laut aaye… Lekin uss moment ka vibe—abhi tak chhoda nahi uss gane ne.",
+        image: "/music/Paro.jpg",
+        audio: "/music/Paro.mp3"
       }
     ],
+    
     movies: []
   },
   education: [
