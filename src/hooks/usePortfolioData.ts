@@ -102,12 +102,12 @@ const portfolioData: PortfolioData = {
       link: "https://github.com/AnshTheCoderBoy/Scholar-Portal.git"
     },
     {
-      title: "GameOz",
-      description: "GameOz, the ultimate destination for gaming enthusiasts. Immerse yourself in a world of endless possibilities, where you can discover, download, and experience your favorite games like never before.",
-      tech: ["Tailwind", "RAWG AP", " React "],
-      img: "/projects/gamesite.png",
-      link: "https://gameoz.netlify.app/"
-    },
+      title: "PixelMuse",
+      description: "PixelMuse lets you create beautiful and unique images just by typing what’s on your mind. Whether it's a fantasy scene, cartoon ad, dream place, or creative concept — just describe it, and PixelMuse will bring it to life in seconds.",
+      tech: ["React", "Tailwind", "TypeScript", "Crayon API"],
+      img: "/projects/pixelmuse.jpg",
+      link: "https://pixelmuse.netlify.app/"
+    }, 
     {
       title: "Personal Portfolio Website",
       description: "Developed a static website using HTML, CSS, and JavaScript to showcase skills and contact information.",
@@ -115,12 +115,28 @@ const portfolioData: PortfolioData = {
       img: "/projects/portfolio.png",
       link: "https://anshulhub.netlify.app/"
     },
+     {
+      title: "CineCrave",
+      description: "CineCraves is your go-to destination for discovering the world of cinema—dive into trending, top-rated, and upcoming movies, explore by genre, and uncover rich details like storylines, ratings, and release dates, all through a sleek and immersive experience designed to keep movie lovers hooked.",
+      tech: ["Tailwind", "TMDb API", " React ", "Vite"],
+      img: "/projects/cinicrave.jpg",
+      link: "https://cinecraves.netlify.app/"
+    },
+  
     {
       title: "TazaTunes",
       description: " Play songs from your own device, tune in to live radio, and get the latest news from India and around the world — all in one place, no login needed.",
       tech: ["React", "Tailwind", "TypeScript"],
       img: "/projects/tazatunes.png",
       link: "https://tazatunes.netlify.app/"
+    },
+    
+     {
+      title: "GameOz",
+      description: "GameOz, the ultimate destination for gaming enthusiasts. Immerse yourself in a world of endless possibilities, where you can discover, download, and experience your favorite games like never before.",
+      tech: ["Tailwind", "RAWG AP", " React "],
+      img: "/projects/gamesite.png",
+      link: "https://gameoz.netlify.app/"
     }
   ],
   hobbies: {
